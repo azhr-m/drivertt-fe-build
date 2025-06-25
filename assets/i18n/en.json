@@ -149,7 +149,7 @@
     "payment_instruction_link": "contact us",
     "payment_instruction_p5": "Thank you for letting us be part of your success!",
     "access_tests": "Access to tests",
-    "access_success_history": "Access to success history",
+    "access_success_history": "Access to your progress",
     "access_handbook": "Access to book",
     "access_sign_list": "Access to road signs",
     "support_24_7": "24/7 technical support",
@@ -277,7 +277,7 @@
     "description": "Driving a car is a serious activity that requires responsibility, know-how, and attentiveness. Our instructors are highly qualified, and each of us knows how to help even the most nervous drivers cope with stress and discomfort. Above all, we are proud of the skilled drivers our school produces. We aim to make the streets of Washington, D.C. safer for both teenagers and adult drivers."
   },
   "steps_guide": {
-    "title": "Path to becoming a car / light van driver (Category B)",
+    "title": "Step-by-Step Guide to Becoming a Category B Driver (Car / Light Van)",
     "step_1": {
       "title": "1. Prepare for the Theory Test",
       "text_1": "<strong class='color-strong'>Handbook:</strong> Begin by carefully studying the ",
