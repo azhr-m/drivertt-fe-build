@@ -1,0 +1,102 @@
+{
+  "menu": {
+    "home": "Acasă",
+    "plans": "Planuri tarifare",
+    "free_test": "Test gratuit",
+    "articles": "Articole",
+    "testimonials": "Recenzii",
+    "contact_us": "Contactează-ne",
+    "profile": "Profil",
+    "how_to_register": "Cum să vă înregistrați pentru testul teoretic?",
+    "driver_guide": "Ghidul șoferului",
+    "logout": "Deconectare"
+  },
+  "header": {
+    "hello": "Bună ziua",
+    "location_title": "Locație",
+    "location": "Irlanda - Dublin",
+    "email": "E-mail"
+  },
+  "home": {
+    "drive_a_car": "Conduceți un automobil",
+    "with_us": "cu noi",
+    "description1": "Teste noi de circulație pentru drumurile din Irlanda!",
+    "description2": "Vă ajutăm să vă pregătiți pentru examenul de conducere!",
+    "buttons": {
+      "register": "Înregistrați-vă pentru teste",
+      "try_free": "Încercați gratuit",
+      "start_today": "Începeți astăzi",
+      "read_more": "CITIȚI MAI MULT",
+      "view_all": "VEZI TOT"
+    },
+    "benefits": {
+      "real_test_preparation": "Ajutăm elevii să treacă testele oficiale de conducere!",
+      "license_categories": "Cu ajutorul nostru, veți obține permisul categoriilor B + W",
+      "updated_road_rules": "Prin regulile și semnele de circulație actualizate, vă veți îmbunătăți cunoștințele!"
+    },
+    "about_us": "DESPRE NOI",
+    "about_text1": "Testele online Driver Theory Test (drivertt.ie) au fost create pentru a pregăti studenții pentru testele oficiale de conducere din Irlanda. Am ajutat sute de studenți să treacă testele rutiere oficiale. Despre eficiența testelor noastre puteți afla din",
+    "about_text1_link": "recenziile reale ale studenților noștri",
+    "about_text2": "Primim cele mai recente știri despre noile reguli și semne de circulație. Baza noastră de date conține cele mai recente actualizări. Veți susține întotdeauna testele conform celor mai recente modificări emise de Ministerul Infrastructurii din Irlanda.",
+    "about_text3": "Conducerea unui automobil este o activitate serioasă care necesită responsabilitate, reacție și atenție din partea șoferilor. Testele noastre ajută sute de elevi să treacă examenele reale și să obțină permisul de conducere. Dorim să asigurăm siguranța pe fiecare stradă și drum din Irlanda, atât pentru pietoni, cât și pentru șoferi!",
+    "about_text4": "Cu baza noastră de reguli și semne, vă puteți pregăti cât mai bine pentru testele oficiale de conducere. De asemenea, testele noastre sunt adaptate pentru toate dimensiunile ecranului. Puteți rezolva testele chiar și în timp ce călătoriți, de pe telefon sau tabletă.",
+    "guarantee": {
+      "title_pass_exam": "Treceți examenul,",
+      "title_or_get_free": "sau primiți banii înapoi",
+      "description": "Fondurile dvs. vor fi returnate dacă nu promovați testul teoretic. Garanția noastră de succes este întotdeauna alături de dvs., oferindu-vă sprijin în toate etapele pregătirii."
+    },
+    "how_it_works": {
+      "title": "Cum funcționează",
+      "subtitle_check": "Bifați",
+      "subtitle_learn": "calea spre măiestrie",
+      "description": "O metodă simplă pentru a promova examenul teoretic auto (fără stres).",
+      "stages": {
+        "road_signs": {
+          "title": "Semne de circulație",
+          "desc": "Familiarizați-vă cu semnele de circulație din Irlanda pentru a deveni un șofer de succes. Cursul nostru este partenerul dvs. de încredere în drumul spre siguranță!"
+        },
+        "personalized_learning": {
+          "title": "Învățare personalizată",
+          "desc": "Spuneți adio lecțiilor plictisitoare și concentrați-vă pe conținutul care contează cel mai mult pentru dvs."
+        },
+        "exam_simulator": {
+          "title": "Simulator de examen",
+          "desc": "Un simulator avansat care vă evaluează exact șansele de a promova examenul și vă oferă o imagine realistă a pregătirii dvs."
+        },
+        "pass_exam": {
+          "title": "Promovați examenul",
+          "desc": "Stăpâniți conceptele necesare înainte de examen pentru a vă asigura succesul."
+        }
+      }
+    }
+  },
+  "auth": {
+    "authorization": "Autentificare",
+    "register": "Înregistrare",
+    "username": "Nume utilizator",
+    "name": "Nume",
+    "email": "Adresă de e-mail",
+    "password": "Parolă",
+    "confirm_password": "Confirmați parola",
+    "validation": {
+      "email": "Introduceți o adresă de e-mail validă",
+      "enter": "Introduceți",
+      "email_address": "adresă de e-mail",
+      "password": "Parola trebuie să conțină"
+    },
+    "forgot_password": "Ați uitat parola?",
+    "login": "Autentificare"
+  },
+  "footer": {
+    "copyright": "Drepturi de autor © 2025. - Toate drepturile rezervate - drivertt.ie"
+  },
+  "test": {
+    "welcome_to_mock_exam": "Bine ați venit la examenul de probă",
+    "test_instruction1": "Aveți",
+    "test_instruction2": "45 de minute",
+    "test_instruction3": "pentru a finaliza testul",
+    "test_instruction4": "Puteți greși de maximum",
+    "test_instruction5": "5 ori",
+    "start_test": "Începeți testul"
+  }
+}

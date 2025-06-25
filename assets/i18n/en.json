@@ -1,0 +1,374 @@
+{
+  "menu": {
+    "home": "Home",
+    "plans": "Tariff Plans",
+    "free_test": "Free Test",
+    "articles": "Articles",
+    "testimonials": "Testimonials",
+    "contact_us": "Contact Us",
+    "profile": "Profile",
+    "how_to_register": "How to Register for the Theory Test?",
+    "driver_guide": "Driver Guide",
+    "logout": "Logout",
+    "testing": "Testing",
+    "pricing_plan": "Tariff Plan",
+    "success_history": "Your Progress",
+    "road_signs": "Road Signs",
+    "textbook": "Book",
+    "personal_account": "Personal account"
+  },
+  "common": {
+    "no_data": "No data",
+    "send": "SEND"
+  },
+  "header": {
+    "hello": "Hello",
+    "location_title": "Location",
+    "location": "Ireland - Dublin",
+    "email": "Email"
+  },
+  "home": {
+    "drive_a_car": "Drive a car",
+    "with_us": "with us",
+    "description1": "New Irish Road Safety Authority Driver Theory Test 2025!",
+    "description2": "Get Ready to Pass Your Irish Theory Test - The Smart and Easy Way!",
+    "buttons": {
+      "register": "Register for tests",
+      "try_free": "Try for free",
+      "start_today": "Start today",
+      "read_more": "Read more",
+      "view_all": "View all"
+    },
+    "benefits": {
+      "real_test_preparation": "We support learners in successfully passing the official driver theory test!",
+      "license_categories": "Get your category B and W driving licences efficiently and with confidence. We will guide you every step of the way!",
+      "updated_road_rules": "Our up-to-date road rules and traffic signs will help you enhance your knowledge!"
+    },
+    "about_us": "About Us",
+    "about_text1": "Driver Theory Test",
+    "about_text1_link": "drivertt.ie",
+    "about_text2": "is an online platform designed to help students effectively prepare for the official driver theory exam in Ireland. Our mission is to make learning accessible, convenient, and effective for every future driver.",
+    "about_text3": "We take pride in having helped hundreds of students successfully pass the official test and obtain their driving licences. You can learn about the effectiveness of our tests from ",
+    "about_text2_link": "real reviews by our students",
+    "about_text_3_extend": "Our practice tests are based on the most up-to-date requirements and official updates from the Road Safety Authority (RSA). We regularly update our database to reflect the latest road signs and rules, ensuring you always prepare with the freshest information.",
+    "about_text4": "We believe that driving is not just a skill, but a responsibility. That’s why our goal is to contribute to improving road safety in Ireland by providing high-quality preparation both for new drivers and for those looking to refresh their knowledge.",
+    "guarantee": {
+      "title_pass_exam": "Pass the exam,",
+      "title_or_get_free": "or get it for free",
+      "description": "Your payment will be refunded if you don’t pass the theory test. Our Success Guarantee is always with you, providing support at every stage of your preparation."
+    },
+    "how_it_works": {
+      "title": "How it works",
+      "subtitle_check": "Mark",
+      "subtitle_learn": "Your path to mastery",
+      "description": "A simple way to pass the driving theory test (and not worry about it).",
+      "stages": {
+        "road_signs": {
+          "title": "Road Signs",
+          "desc": "Get familiar with Ireland’s road signs and move closer to driving success. Our course is your reliable partner on the road to safe driving!"
+        },
+        "personalized_learning": {
+          "title": "Personalized Learning",
+          "desc": "Say goodbye to boring lectures and focus on the content that matters most to you."
+        },
+        "exam_simulator": {
+          "title": "Exam Simulator",
+          "desc": "An advanced simulator that accurately assesses your chances of passing and gives you a realistic view of your readiness."
+        },
+        "pass_exam": {
+          "title": "Pass the Test",
+          "desc": "Master key concepts before the exam to ensure success and approach your test with confidence."
+        }
+      }
+    },
+    "why_choose_us": {
+      "title": "Our mission is to prepare students for real official tests. For this, we have everything you need:",
+      "items": {
+        "latest_rules": "Latest updates on rules and road signs",
+        "affordable_prices": "Affordable prices for every student",
+        "desktop_mobile": "Desktop/Mobile version",
+        "progress_tracking": "Track your learning progress",
+        "support_24_7": "24/7 technical support"
+      }
+    },
+    "posts": "Interesting Articles",
+    "driver_education": "With us",
+    "education_benefits": {
+      "full_preparation": "You will be fully prepared for the tests",
+      "exam_confidence": "You will be confident in passing the real test",
+      "road_test_ready": "You will be prepared for on-road tests"
+    },
+    "testimonials": "Reviews",
+    "student": "Student",
+    "review1": {
+      "name": "Juliana",
+      "text": "Two hours ago, I passed the RSA exam on the first try! It was very convenient and easy to study. I’m writing this and still can’t believe my happiness! Everything is super!"
+    },
+    "review2": {
+      "name": "Ivan",
+      "text": "Thanks to these online tests, I was able to prepare and pass the state test on the first try. I practiced on this site from my phone while commuting to work, going to the gym, and even on vacation."
+    }
+  },
+  "auth": {
+    "authorization": "Authorization",
+    "register": "Register",
+    "username": "Username",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "validation": {
+      "email": "Enter a valid email address",
+      "enter": "Enter",
+      "email_address": "Email address",
+      "password": "Password must contain"
+    },
+    "forgot_password": "Forgot password?",
+    "login": "Login"
+  },
+  "footer": {
+    "copyright": "Copyright ©",
+    "all_rights_reserved": "All rights reserved - drivertt.ie"
+  },
+  "test": {
+    "welcome_to_mock_exam": "Welcome to the Theory Test",
+    "test_instruction1": "You have",
+    "test_instruction2": "45 minutes",
+    "test_instruction3": "to complete the test",
+    "test_instruction4": "To pass the test successfully, you may make up to",
+    "test_instruction5": "5 mistakes",
+    "start_test": "Start Test"
+  },
+  "tariff_plans": {
+    "title": "Tariff plans",
+    "payment_instruction_title": "Payment Instructions:",
+    "payment_instruction_p1": "Please choose one of our tariff plans that you think best suits your preparation for the theory exams. We have carefully reviewed our options and set optimal prices to make learning accessible to everyone!",
+    "payment_instruction_p2": "To complete the payment for the selected plan, you need to be logged in. After clicking the “BUY NOW” button and confirming your purchase, you will be redirected to the login page where you can either create a new account or sign in to an existing one.",
+    "payment_instruction_p3": "Next, you will be taken to the payment page, where you can pay for your selected package via PayPal or any bank card.",
+    "payment_instruction_p4": "After completing the payment, you will be automatically redirected to your personal account on our website. There, you will get access to the Tests, Your Progress, Road Signs, Book, and the Driver Guide. If you have any questions, you can always ",
+    "payment_instruction_link": "contact us",
+    "payment_instruction_p5": "Thank you for letting us be part of your success!",
+    "access_tests": "Access to tests",
+    "access_success_history": "Access to success history",
+    "access_handbook": "Access to book",
+    "access_sign_list": "Access to road signs",
+    "support_24_7": "24/7 technical support",
+    "mobile_version": "Mobile version",
+    "desktop_version": "Desktop version",
+    "plan_economy": "Economy",
+    "plan_standard": "Standard",
+    "plan_advanced": "Advanced",
+    "duration_1_month": "1 month",
+    "duration_3_months": "3 months",
+    "duration_6_months": "6 months",
+    "select": "SELECT",
+    "buy_now": "BUY NOW"
+  },
+  "free_tests": {
+    "title": "Free test",
+    "welcome": "Welcome to the free test!",
+    "instruction": "You will have <strong>{{minutes}} minutes</strong> to answer <strong>{{question_count}} questions</strong>.",
+    "start_button": "START FREE TEST",
+    "next": "Next",
+    "back": "Back",
+    "finish": "Finish",
+    "question_no": "Question No.",
+    "result": {
+      "passed": "Congratulations! You passed the test!",
+      "failed": "Unfortunately you did not pass the test.",
+      "summary": "You answered <strong>{{correct}}</strong> out of 10 questions correctly.",
+      "button": "REGISTER FOR REAL TESTS"
+    }
+  },
+  "articles": {
+    "title": "Articles",
+    "read_more": "Read more",
+    "back": "BACK"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "section_title": "We are here to make your learning easy and accessible!",
+    "paragraph_1": "If our materials have helped you improve your knowledge of Ireland’s road rules and prepare for the theory exam, we would greatly appreciate your feedback. Your input matters, every review helps us improve and motivates other students to learn.",
+    "paragraph_2": "DriverTT online tests have always placed special emphasis on the quality of our study resources. We take pride in offering our students only high-quality and up-to-date materials. Our focus has always been, and continues to be, on delivering real results for our users. But don’t just take our word for it,  read what some of our students say about us online!",
+    "paragraph_3": "You can find more reviews on our <a href='https://www.facebook.com/drivertt.ie'>Facebook</a> page and <a href='https://www.instagram.com/drivertt.ie'>Instagram</a>.",
+    "write_testimonial": "Write a review"
+  },
+  "contact_us": {
+    "title": "Contacts",
+    "paragraph_1": "Thank you for your interest in our online tests! We’re glad you took the time to visit our website and look forward to having you try our practice tests. We’re confident you’ll be pleasantly surprised by how simple and user-friendly our service is.",
+    "paragraph_2": "Please use the contact form below to send us a message and take the first step toward becoming a confident and skilled driver!",
+    "contact_us": "Contact us",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message"
+  },
+  "tariff": {
+    "current_plan": "Current Plan",
+    "name": "Name",
+    "plan_name": "Basic",
+    "days_left": "Days left",
+    "renew_plan": "Renew Plan"
+  },
+  "payment_history": {
+    "title": "Payment History",
+    "no_data": "No data",
+    "number": "No",
+    "date": "Date",
+    "tariff": "Plan",
+    "price": "Price",
+    "days": "Days",
+    "status": "Status",
+    "paid": "Paid",
+    "canceled": "Canceled",
+    "paginator_aria": "Select page"
+  },
+  "scores": {
+    "title": "Your progress",
+    "number": "No",
+    "category": "Category",
+    "date": "Date",
+    "time_spent": "Time Spent",
+    "at": "at",
+    "result": "Result",
+    "actions": "Actions",
+    "passed": "Passed",
+    "failed": "Failed",
+    "paginator_aria": "Select page",
+    "questions": "Questions"
+  },
+  "question": {
+    "number": "Question №{{number}}",
+    "explanation": "Explanation:"
+  },
+  "road_signs": {
+    "title": "Road signs"
+  },
+  "lessons": {
+    "title": "Lessons",
+    "explanation": "Explanation"
+  },
+  "how_to_register": {
+    "official_site": "Official Site (RSA)",
+    "theoretical_test": "Theoretical Test",
+    "test_category": "Test Category",
+    "additional_information": "Additional Information",
+    "privacy_policy": "Privacy Policy",
+    "required_docs": "Required Documents",
+    "important_note": "Important Note",
+    "pre_approved": "Pre-approved Conditions for Testing",
+    "test_choice": "Test Selection",
+    "exam_language": "Exam Language",
+    "test_center": "Test Center",
+    "date_time": "Date and Time",
+    "personal_data": "Personal Data",
+    "review": "Registration Review",
+    "payment": "Payment",
+    "previous": "Previous",
+    "next": "Next",
+    "chapters": "Chapters"
+  },
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirm_pass": "Confirm Password",
+    "save": "Save",
+    "description": "Driving a car is a serious activity that requires responsibility, know-how, and attentiveness. Our instructors are highly qualified, and each of us knows how to help even the most nervous drivers cope with stress and discomfort. Above all, we are proud of the skilled drivers our school produces. We aim to make the streets of Washington, D.C. safer for both teenagers and adult drivers."
+  },
+  "steps_guide": {
+    "title": "Path to becoming a car / light van driver (Category B)",
+    "step_1": {
+      "title": "1. Prepare for the Theory Test",
+      "text_1": "<strong class='color-strong'>Handbook:</strong> Begin by carefully studying the ",
+      "text_2": "This is the official source of knowledge about Ireland's road rules.",
+      "text_3": "Pay special attention to sections on road signs, road markings, speed limits, priority rules, and road behavior in various situations.",
+      "link_text_1": "Rules of the Road",
+      "text_4": "<strong class='color-strong'>Road Signs:</strong> Carefully study all ",
+      "link_text_2": "road signs",
+      "text_5": "Learning road signs is an important part of your preparation, helping you become more comfortable on the road and pass the theory test successfully.",
+      "text_6": "<strong class='color-strong'>Take practice tests:</strong> Take ",
+      "link_text_3": "practice tests",
+      "text_7": "regularly. This will help you get used to the structure of the exam and the types of questions you may encounter.",
+      "text_8": "After each test, review your mistakes and revise the topics you find difficult."
+    },
+    "step_2": {
+      "title": "2. Take the Theory Test",
+      "text_1": "<strong class='color-strong'>Book your test:</strong> Register on the official website ",
+      "link_text_1": "www.theorytest.ie",
+      "text_2": "choose a nearby test center and a convenient time. Detailed ",
+      "link_text_2": "instructions on registration",
+      "text_3": "can be found on our website.",
+      "text_4": "<strong class='color-strong'>Exam:</strong> The theory test consists of 40 questions, and you need at least 35 correct answers to pass. The allotted time is 45 minutes.",
+      "text_5": "Once you pass the test, you will receive a Certificate of Competency."
+    },
+    "step_3": {
+      "title": "3. Apply for a Learner Permit",
+      "text_1": "Now you can apply online for a Learner Permit, simplifying the process. There’s no need to fill in paper forms, book appointments, or visit NDLS in person. To apply online, simply click ",
+      "link_text_1": "here",
+      "text_2": "To submit your application, you will need: ",
+      "li_1": "A Public Services Card and a verified ",
+      "li_2": "Proof of having successfully passed the theory test in the appropriate category within the last 2 years.",
+      "li_3": "A fully completed Eye Report Form, dated within the last 1 month, if required in your case.",
+      "li_4": "A fully completed Medical Report Form, dated within the last 1 month, if required in your case.",
+      "li_5": "Proof of address, issued within the last 6 months, if your current address is different from the one you previously provided when applying for your PSC.",
+      "li_6": "Proof that you normally reside in Ireland, if your place of birth and citizenship are outside the EU/EEA.",
+      "li_7": "A completed Certificate of Professional Competence (CPC) if required.",
+      "text_3": "The application fee is €45.00. You can pay by credit or debit card. If you are 70 or over, you are exempt from this fee."
+    },
+    "step_4": {
+      "title": "4. Practical Training",
+      "text_1": "<strong class='color-strong'>Find an Instructor or Driving School:</strong> Find a qualified instructor registered with the RSA (Road Safety Authority). Make sure the instructor holds an Approved Driving Instructor (ADI) certificate.",
+      "text_2": "<strong class='color-strong'>Essential Driver Training (EDT) Lessons:</strong> In Ireland, you must complete 12 hours of mandatory lessons. The course covers all key aspects of driving.",
+      "text_3": "<strong class='color-strong'>Practice with a Supervisor:</strong> You may practice with an experienced driver who has held a full license for at least 2 years. The car must display an “L” (Learner) plate at the back and the front."
+    },
+    "step_5": {
+      "title": "5. Prepare for the Driving Test",
+      "text_1": "<strong class='color-strong'>Complete EDT:</strong> After finishing all 12 lessons, your instructor will fill in your EDT Logbook, which you must present at your driving test.",
+      "text_2": "<strong class='color-strong'>Practice in real conditions:</strong> Drive regularly under real road conditions to improve your skills."
+    },
+    "step_6": {
+      "title": "6. Take the Driving Test",
+      "text_1": "<strong class='color-strong'>Book your test:</strong> Register for your test on ",
+      "text_1_extend": "Choose a nearby center and convenient time.",
+      "text_2": "Arriving at the test center",
+      "li_1": "You should arrive 10–15 minutes before your appointment.",
+      "li_2": "Don’t forget to bring your Learner Permit and any other documents you may need (such as booking confirmation).",
+      "text_3": "Document check",
+      "li_3": "The tester will check your documents and identification. They may also ask you to show that your vehicle meets requirements (such as having a valid insurance policy).",
+      "text_4": "Vehicle check",
+      "li_4": "Before the test starts, the tester may ask you to perform some vehicle checks, like testing brakes, indicators, and lights.",
+      "text_5": "Start of test",
+      "li_5": "The test starts once you take the driver's seat and the tester sits in the passenger seat.",
+      "li_6": "You will be required to perform a range of tasks on the road, including starting, braking, changing lanes, turning, reversing, and parking.",
+      "text_6": "Assessment of your driving skills",
+      "li_7": "The tester assesses how you handle different road situations, obey road rules, use mirrors and signals, and control the vehicle safely.",
+      "li_8": "Your ability to maneuver safely in heavy or challenging conditions will also be evaluated.",
+      "text_7": "Returning to the test center",
+      "li_9": "Once you complete all the tasks, you will return to the test center.",
+      "text_8": "Getting results",
+      "li_10": "After finishing the test, the tester will tell you whether you have passed. If you pass, you will be issued a temporary Certificate of Competency while you wait for your driving license.",
+      "li_11": "If you fail, the tester will explain where you made mistakes and give recommendations for improvement."
+    },
+    "step_7": {
+      "title": "7. Obtain a Full Driving License",
+      "text_1": "After successfully passing the driving test, you can apply for a full driving license. This can be done online through ",
+      "link_text_1": "NDLS website",
+      "text_1_extend": " or in person at any National Driver Licence Service (NDLS) center.",
+      "text_2": "Required documents",
+      "li_1": "Your Learner Permit.",
+      "li_2": "Proof of address if it’s different from previously provided.",
+      "li_3": "A recent color photo (if applying in person).",
+      "li_4": "Medical certificate if required.",
+      "li_5": "A completed application form (if applying in person).",
+      "text_3": "Fee",
+      "li_6": "Pay the appropriate license fee. The amount depends on the license's validity (typically 10 years).",
+      "text_4": "Getting your license",
+      "li_7": "Once processed, your full driving license will be issued and may be posted to your address.",
+      "text_5": "Replacement of temporary license",
+      "li_8": "If you previously held a temporary license, you must surrender it when you get your full license.",
+      "text_6": "Validity",
+      "li_9": "A full driving license in Ireland is typically valid for 10 years. After this, it must be renewed."
+    }
+  }
+}
