@@ -137,7 +137,15 @@
     "test_instruction3": "для прохождения теста",
     "test_instruction4": "Для успешной сдачи теста разрешается допустить максимум",
     "test_instruction5": "5 ошибок",
-    "start_test": "Начать Тест"
+    "start_test": "Начать Тест",
+    "passed": "Поздравляем! Вы успешно сдали тест!",
+    "failed": "К сожалению, вы не сдали тест!",
+    "your_progress": "Ваш Прогресс",
+    "correct": "Правильно",
+    "incorrect": "Неправильно",
+    "skipped": "Пропущено",
+    "try_again": "Попробовать еще раз",
+    "test_stats": "Вы ответили правильно на {{correct}} вопросов из {{total}}"
   },
   "tariff_plans": {
     "title": "Тарифные планы",
@@ -162,14 +170,30 @@
     "duration_3_months": "3 месяца",
     "duration_6_months": "6 месяцев",
     "select": "ВЫБРАТЬ",
-    "buy_now": "КУПИТЬ СЕЙЧАС"
+    "buy_now": "КУПИТЬ СЕЙЧАС",
+    "choose_plan_message": "Для доступа к данной странице выберите <strong class='color-strong'>тарифный план</strong>.",
+    "choose_plan_button": "Выбрать тарифный план"
+  },
+  "checkout": {
+    "title": "Подробности покупки",
+    "selected_plan": "Выбранный тарифный план",
+    "promo_usage": "Использовать бонусы или промокод",
+    "apply_promo": "Применить",
+    "total": "Итого",
+    "subTotal": "Промежуточный итог",
+    "plan_type": "Тип плана",
+    "price_per_month":"Цена за месяц",
+    "total_payable": "Всего к оплате",
+    "goto_checkout": "ПЕРЕЙТИ К ОФОРМЛЕНИЮ",
+    "other_payment_methods": "Другие способы оплаты",
+    "pay_with_stripe": "Оплатить через Stripe"
   },
   "free_tests": {
     "title": "Бесплатный тест",
     "welcome": "Добро пожаловать на бесплатный тест!",
     "instruction": "У вас будет <strong>{{minutes}} минут</strong> чтобы ответить на <strong>{{question_count}} вопросов</strong>.",
     "start_button": "НАЧАТЬ БЕСПЛАТНЫЙ ТЕСТ",
-    "next": "Вперед",
+    "next": "Вперёд",
     "back": "Назад",
     "finish": "Завершить",
     "question_no": "Вопрос №",

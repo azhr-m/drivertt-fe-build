@@ -137,7 +137,15 @@
     "test_instruction3": "to complete the test",
     "test_instruction4": "To pass the test successfully, you may make up to",
     "test_instruction5": "5 mistakes",
-    "start_test": "Start Test"
+    "start_test": "Start Test",
+    "passed": "Congratulations! You passed the test successfully!",
+    "failed": "Unfortunately, you did not pass the test!",
+    "your_progress": "Your Progress",
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "skipped": "Skipped",
+    "try_again": "Try Again",
+    "test_stats": "You answered {{correct}} out of {{total}} questions correctly"
   },
   "tariff_plans": {
     "title": "Tariff plans",
@@ -162,7 +170,23 @@
     "duration_3_months": "3 months",
     "duration_6_months": "6 months",
     "select": "SELECT",
-    "buy_now": "BUY NOW"
+    "buy_now": "BUY NOW",
+    "choose_plan_message": "To access this page, please choose a <strong class='color-strong'>tariff plan</strong>.",
+    "choose_plan_button": "Choose a tariff plan"
+  },
+  "checkout": {
+    "title": "Purchase Details",
+    "selected_plan": "Selected Plan",
+    "promo_usage": "Use bonuses or promo code",
+    "apply_promo": "Apply",
+    "total": "Total",
+    "subTotal": "Subtotal",
+    "plan_type": "Plan type",
+    "price_per_month": "Price per month",
+    "total_payable": "Total due",
+    "goto_checkout": "CONTINUE TO CHECKOUT",
+        "other_payment_methods": "Other payment methods",
+    "pay_with_stripe": "Pay with Stripe"
   },
   "free_tests": {
     "title": "Free test",
