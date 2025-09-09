@@ -19,7 +19,9 @@
   },
   "common": {
     "no_data": "No data",
-    "send": "SEND"
+    "send": "SEND",
+    "success": "Success",
+    "error": "Error"
   },
   "header": {
     "hello": "Hello",
@@ -30,7 +32,7 @@
   "home": {
     "drive_a_car": "Drive a car",
     "with_us": "with us",
-    "description1": "New Irish Road Safety Authority Driver Theory Test 2025!",
+    "description1": "New Irish Road Safety Authority Driver Theory Tests 2025!",
     "description2": "Get Ready to Pass Your Irish Theory Test - The Smart and Easy Way!",
     "buttons": {
       "register": "Register for tests",
@@ -124,7 +126,36 @@
       "password": "Password must contain"
     },
     "forgot_password": "Forgot password?",
-    "login": "Login"
+    "login": "Login",
+    "forgot_password_title": "Forgot password?",
+    "email_label": "Email address",
+    "email_placeholder": "Enter your email address",
+    "email_validation_invalid": "Enter a valid email address",
+    "email_validation_required": "Enter your <strong>email address</strong>",
+    "send_button": "SEND",
+    "signup_success": {
+      "title": "JUST ONE MORE STEP...",
+      "description": "Please verify your email address so you can sign in, if you ever forget your password. We've sent a confirmation email to:",
+      "resend_text": "Still haven't received?",
+      "resend_link": "Resend",
+      "loading": "Loading...",
+      "success_message": "Confirmation token sent successfully.",
+      "already_verified": "Email is already verified."
+    },
+    "verify_identity": {
+      "title": "Email Verification...",
+      "verifying_message": "Your email is being verified, please wait.",
+      "success_message": "Thank you for confirming your email.",
+      "login_prompt": "Please try to log in now.",
+      "login_link": "Click here to log in",
+      "loading": "Loading...",
+      "invalid_token": "Invalid or expired token."
+    },
+    "reset_password": {
+      "success_message": "Password reset successfully.",
+      "email_token_not_found": "Email or token not found.",
+      "invalid_token": "Invalid or expired token."
+    }
   },
   "footer": {
     "copyright": "Copyright ©",

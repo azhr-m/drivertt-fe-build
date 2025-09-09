@@ -7,96 +7,423 @@
     "testimonials": "Recenzii",
     "contact_us": "Contactează-ne",
     "profile": "Profil",
-    "how_to_register": "Cum să vă înregistrați pentru testul teoretic?",
+    "how_to_register": "Cum să te înregistrezi pentru testul teoretic?",
     "driver_guide": "Ghidul șoferului",
-    "logout": "Deconectare"
+    "logout": "Deconectare",
+    "testing": "Testare",
+    "pricing_plan": "Plan tarifar",
+    "success_history": "Istoricul succesului",
+    "road_signs": "Semne de circulație",
+    "textbook": "Manual",
+    "personal_account": "Cont personal"
+  },
+  "common": {
+    "no_data": "Nu există date",
+    "send": "TRIMITE",
+    "success": "Succes",
+    "error": "Eroare"
   },
   "header": {
-    "hello": "Bună ziua",
+    "hello": "Salut",
     "location_title": "Locație",
     "location": "Irlanda - Dublin",
-    "email": "E-mail"
+    "email": "Email"
   },
   "home": {
-    "drive_a_car": "Conduceți un automobil",
-    "with_us": "cu noi",
-    "description1": "Teste noi de circulație pentru drumurile din Irlanda!",
-    "description2": "Vă ajutăm să vă pregătiți pentru examenul de conducere!",
+    "drive_a_car": "Condu",
+    "with_us": "cu noi!",
+    "description1": "Noile teste teoretice pentru regulile de circulație din Irlanda 2025!",
+    "description2": "Te ajutăm să te pregătești eficient pentru examenul teoretic, ca să obții permisul de conducere în Irlanda!",
     "buttons": {
-      "register": "Înregistrați-vă pentru teste",
-      "try_free": "Încercați gratuit",
-      "start_today": "Începeți astăzi",
-      "read_more": "CITIȚI MAI MULT",
+      "register": "Înregistrează-te pentru teste",
+      "try_free": "Încearcă gratuit",
+      "start_today": "Începe azi",
+      "read_more": "CITEȘTE MAI MULT",
       "view_all": "VEZI TOT"
     },
     "benefits": {
-      "real_test_preparation": "Ajutăm elevii să treacă testele oficiale de conducere!",
-      "license_categories": "Cu ajutorul nostru, veți obține permisul categoriilor B + W",
-      "updated_road_rules": "Prin regulile și semnele de circulație actualizate, vă veți îmbunătăți cunoștințele!"
+      "real_test_preparation": "Ajutăm utilizatorii să treacă cu încredere testele teoretice oficiale!",
+      "license_categories": "Cu ajutorul nostru, obții rapid și sigur permisele de conducere pentru categoriile B și W!",
+      "updated_road_rules": "Îmbunătățiți-vă cunoștințele cu cele mai recente reguli de circulație și semne rutiere!"
     },
     "about_us": "DESPRE NOI",
-    "about_text1": "Testele online Driver Theory Test (drivertt.ie) au fost create pentru a pregăti studenții pentru testele oficiale de conducere din Irlanda. Am ajutat sute de studenți să treacă testele rutiere oficiale. Despre eficiența testelor noastre puteți afla din",
-    "about_text1_link": "recenziile reale ale studenților noștri",
-    "about_text2": "Primim cele mai recente știri despre noile reguli și semne de circulație. Baza noastră de date conține cele mai recente actualizări. Veți susține întotdeauna testele conform celor mai recente modificări emise de Ministerul Infrastructurii din Irlanda.",
-    "about_text3": "Conducerea unui automobil este o activitate serioasă care necesită responsabilitate, reacție și atenție din partea șoferilor. Testele noastre ajută sute de elevi să treacă examenele reale și să obțină permisul de conducere. Dorim să asigurăm siguranța pe fiecare stradă și drum din Irlanda, atât pentru pietoni, cât și pentru șoferi!",
-    "about_text4": "Cu baza noastră de reguli și semne, vă puteți pregăti cât mai bine pentru testele oficiale de conducere. De asemenea, testele noastre sunt adaptate pentru toate dimensiunile ecranului. Puteți rezolva testele chiar și în timp ce călătoriți, de pe telefon sau tabletă.",
+    "about_text1": "Driver Theory Test",
+    "about_text1_link": "drivertt.ie",
+    "about_text2": "este o platformă online creată pentru a ajuta studenții să se pregătească eficient pentru examenul teoretic oficial necesar obținerii permisului de conducere în Irlanda. Misiunea noastră este să facem procesul de învățare accesibil, comod și eficient pentru fiecare viitor șofer.",
+    "about_text3": "Ne mândrim cu faptul că am ajutat sute de studenți să susțină cu succes examenul teoretic oficial și să obțină permisul de conducere. Despre eficiența testelor poți afla din ",
+    "about_text2_link": "recenziile reale ale cursanților noștri",
+    "about_text_3_extend": "Testele noastre practice se bazează pe cele mai recente cerințe și actualizări oficiale de la Autoritatea pentru Siguranța Rutieră (RSA). Actualizăm frecvent baza de date cu noile indicatoare și reguli rutiere pentru ca tu să înveți mereu după cele mai noi materiale.",
+    "about_text4": "Credem că șofatul nu este doar o abilitate, ci o responsabilitate. De aceea, scopul nostru este să contribuim la siguranța rutieră în Irlanda, oferind pregătire de calitate pentru șoferii începători și pentru cei care doresc să-și reîmprospăteze cunoștințele.",
     "guarantee": {
-      "title_pass_exam": "Treceți examenul,",
-      "title_or_get_free": "sau primiți banii înapoi",
-      "description": "Fondurile dvs. vor fi returnate dacă nu promovați testul teoretic. Garanția noastră de succes este întotdeauna alături de dvs., oferindu-vă sprijin în toate etapele pregătirii."
+      "title_pass_exam": "Susține examenul,",
+      "title_or_get_free": "sau primește-l gratuit",
+      "description": "Fondurile dumneavoastră vor fi rambursate dacă nu treceți testul teoretic. Garanția noastră de succes este mereu alături de dumneavoastră, oferindu-vă sprijin în toate etapele pregătirii dumneavoastră."
     },
     "how_it_works": {
       "title": "Cum funcționează",
-      "subtitle_check": "Bifați",
-      "subtitle_learn": "calea spre măiestrie",
-      "description": "O metodă simplă pentru a promova examenul teoretic auto (fără stres).",
+      "subtitle_check": "Descoperă",
+      "subtitle_learn": "drumul spre performanță",
+      "description": "Modul simplu de a trece examenul teoretic (fără stres).",
       "stages": {
         "road_signs": {
           "title": "Semne de circulație",
-          "desc": "Familiarizați-vă cu semnele de circulație din Irlanda pentru a deveni un șofer de succes. Cursul nostru este partenerul dvs. de încredere în drumul spre siguranță!"
+          "desc": "Familiarizează-te cu semnele de circulație din Irlanda și fă un pas mai aproape de obținerea permisului. Cursul nostru este partenerul tău de încredere pe drumul către un condus sigur!"
         },
         "personalized_learning": {
           "title": "Învățare personalizată",
-          "desc": "Spuneți adio lecțiilor plictisitoare și concentrați-vă pe conținutul care contează cel mai mult pentru dvs."
+          "desc": "Spune adio lecțiilor plictisitoare și concentrează-te pe conținutul care contează cu adevărat pentru tine."
         },
         "exam_simulator": {
           "title": "Simulator de examen",
-          "desc": "Un simulator avansat care vă evaluează exact șansele de a promova examenul și vă oferă o imagine realistă a pregătirii dvs."
+          "desc": "Un simulator avansat care evaluează cu precizie șansele tale de a trece examenul și îți oferă o idee realistă despre nivelul tău de pregătire."
         },
         "pass_exam": {
-          "title": "Promovați examenul",
-          "desc": "Stăpâniți conceptele necesare înainte de examen pentru a vă asigura succesul."
+          "title": "Promovează examenul",
+          "desc": "Stăpânește conceptele esențiale înainte de examen, asigurându-te că vei reuși și vei trece examenul cu încredere."
         }
       }
+    },
+    "why_choose_us": {
+      "title": "Misiunea noastră este să pregătim studenții pentru testele oficiale. Avem tot ce e necesar:",
+      "items": {
+        "latest_rules": "Ultimele actualizări ale regulilor și semnelor",
+        "affordable_prices": "Prețuri accesibile pentru toți utilizatorii",
+        "desktop_mobile": "Versiune desktop/mobil",
+        "progress_tracking": "Monitorizarea progresului",
+        "support_24_7": "Asistență tehnică 24/7"
+      }
+    },
+    "posts": "ARTICOLE INTERESANTE",
+    "driver_education": "ÎMPREUNĂ CU NOI",
+    "education_benefits": {
+      "full_preparation": "Vei fi complet pregătit pentru teste",
+      "exam_confidence": "Vei avea încredere la testul real",
+      "road_test_ready": "Vei fi pregătit pentru proba practică"
+    },
+    "testimonials": "RECENZII",
+    "student": "Student",
+    "review1": {
+      "name": "Iuliana",
+      "text": "Am trecut examenul RSA cu succes acum două ore! A fost foarte comod și ușor de învățat. Scriu și încă nu-mi vine să cred! Totul a fost super!"
+    },
+    "review2": {
+      "name": "Ivan",
+      "text": "Datorită acestor teste online, am reușit să mă pregătesc și să trec examenul oficial din prima încercare. Am exersat pe site de pe telefon în drum spre serviciu, la sală și chiar în vacanță."
     }
   },
   "auth": {
     "authorization": "Autentificare",
     "register": "Înregistrare",
-    "username": "Nume utilizator",
+    "username": "Nume de utilizator",
     "name": "Nume",
-    "email": "Adresă de e-mail",
+    "email": "Adresă de email",
     "password": "Parolă",
-    "confirm_password": "Confirmați parola",
+    "confirm_password": "Confirmă parola",
     "validation": {
-      "email": "Introduceți o adresă de e-mail validă",
+      "email": "Introduceți o adresă de email validă",
       "enter": "Introduceți",
-      "email_address": "adresă de e-mail",
+      "email_address": "adresa de email",
       "password": "Parola trebuie să conțină"
     },
-    "forgot_password": "Ați uitat parola?",
-    "login": "Autentificare"
+    "forgot_password": "Ai uitat parola?",
+    "login": "Autentificare",
+    "forgot_password_title": "Ai uitat parola?",
+    "email_label": "Adresa de email",
+    "email_placeholder": "Introduceți adresa dvs. de email",
+    "email_validation_invalid": "Introduceți o adresă de email validă",
+    "email_validation_required": "Introduceți <strong>adresa de email</strong>",
+    "send_button": "TRIMITE",
+    "signup_success": {
+      "title": "DOAR ÎNCĂ UN PAS...",
+      "description": "Vă rugăm să vă confirmați adresa de email pentru a vă putea conecta, dacă vă veți uita vreodată parola. Am trimis un email de confirmare la:",
+      "resend_text": "Încă nu ați primit?",
+      "resend_link": "Retrimite",
+      "loading": "Se încarcă...",
+      "success_message": "Token-ul de confirmare a fost trimis cu succes.",
+      "already_verified": "Email-ul este deja confirmat."
+    },
+    "verify_identity": {
+      "title": "Verificarea email-ului...",
+      "verifying_message": "Adresa dumneavoastră de email este în curs de verificare. Vă rugăm să așteptați.",
+      "success_message": "Vă mulțumim pentru confirmarea adresei dvs. de email.",
+      "login_prompt": "Vă rugăm să încercați să vă autentificați acum.",
+      "login_link": "Faceți clic aici pentru a vă autentifica",
+      "loading": "Se încarcă...",
+      "invalid_token": "Token invalid sau expirat."
+    },
+    "reset_password": {
+      "success_message": "Parola a fost resetată cu succes.",
+      "email_token_not_found": "Email-ul sau token-ul nu au fost găsite.",
+      "invalid_token": "Token invalid sau expirat."
+    }
   },
   "footer": {
-    "copyright": "Drepturi de autor © 2025. - Toate drepturile rezervate - drivertt.ie"
+    "copyright": "Drepturi de autor ©",
+    "all_rights_reserved": "Toate drepturile rezervate - drivertt.ie"
   },
   "test": {
-    "welcome_to_mock_exam": "Bine ați venit la examenul de probă",
+    "welcome_to_mock_exam": "Bine ați venit la Testul Teoretic",
     "test_instruction1": "Aveți",
     "test_instruction2": "45 de minute",
     "test_instruction3": "pentru a finaliza testul",
-    "test_instruction4": "Puteți greși de maximum",
-    "test_instruction5": "5 ori",
-    "start_test": "Începeți testul"
+    "test_instruction4": "Pentru a trece testul cu succes, sunt permise maximum",
+    "test_instruction5": "5 greșeli",
+    "start_test": "Începe Testul",
+    "passed": "Felicitări! Ai trecut testul cu succes!",
+    "failed": "Din păcate, nu ai trecut testul!",
+    "your_progress": "Progresul tău",
+    "correct": "Corect",
+    "incorrect": "Greșit",
+    "skipped": "Omis",
+    "try_again": "Încearcă din nou",
+    "test_stats": "Ați răspuns corect la {{correct}} întrebări din {{total}}"
+  },
+  "tariff_plans": {
+    "title": "Planuri tarifare",
+    "payment_instruction_title": "Instrucțiuni de plată:",
+    "payment_instruction_p1": "Vă rugăm să alegeți unul dintre planurile noastre tarifare care vi se pare cel mai potrivit pentru pregătirea examenului teoretic. Am analizat cu atenție opțiunile noastre și am stabilit prețuri optime pentru a face învățarea accesibilă tuturor!",
+    "payment_instruction_p2": "Pentru a finaliza plata planului ales, trebuie să vă autentificați. După ce apăsați butonul „CUMPĂRĂ ACUM” și confirmați achiziția, veți fi redirecționat(ă) către pagina de autentificare, unde puteți să creați un cont nou sau să vă conectați la unul existent.",
+    "payment_instruction_p3": "Apoi veți fi redirecționat către pagina de plată, unde puteți plăti pachetul ales prin PayPal sau cu orice card bancar.",
+    "payment_instruction_p4": "După finalizarea plății, veți fi redirecționat(ă) automat în contul personal de pe site-ul nostru. Acolo veți avea acces la Teste, Istoricul Succeselor, Semnele de Circulație, Manualul și Ghidul Șoferului. Dacă aveți întrebări, ne puteți oricând ",
+    "payment_instruction_link": "contacta",
+    "payment_instruction_p5": "Îți mulțumim că ne-ai ales să facem parte din succesul tău!",
+    "access_tests": "Acces la teste",
+    "access_success_history": "Acces la istoricul succeselor",
+    "access_handbook": "Acces la manual",
+    "access_sign_list": "Acces la lista de semne",
+    "support_24_7": "Suport tehnic 24/7",
+    "mobile_version": "Versiune mobilă",
+    "desktop_version": "Versiune desktop",
+    "plan_economy": "Economic",
+    "plan_standard": "Standard",
+    "plan_advanced": "Avansat",
+    "duration_1_month": "1 lună",
+    "duration_3_months": "3 luni",
+    "duration_6_months": "6 luni",
+    "select": "SELECTEAZĂ",
+    "buy_now": "CUMPĂRĂ ACUM",
+    "choose_plan_message": "Pentru a accesa această pagină, selectați un <strong class='color-strong'>plan tarifar</strong>.",
+    "choose_plan_button": "Selectează planul tarifar"
+  },
+  "checkout": {
+    "title": "Detalii achiziție",
+    "selected_plan": "Plan tarifar selectat",
+    "promo_usage": "Utilizați bonusuri sau cod promoțional",
+    "apply_promo": "Aplică",
+    "total": "Total",
+    "subTotal": "Subtotal",
+    "plan_type": "Tipul planului",
+    "price_per_month": "Preț pe lună",
+    "total_payable": "Total de plată",
+    "goto_checkout": "MERGI LA FINALIZAREA COMENZII",
+    "other_payment_methods": "Alte metode de plată",
+    "pay_with_stripe": "Plătește prin Stripe"
+  },
+  "free_tests": {
+    "title": "Test Gratuit",
+    "welcome": "Bine ați venit la testul gratuit!",
+    "instruction": "Veți avea <strong>{{minutes}} minute</strong> pentru a răspunde la <strong>{{question_count}} întrebări</strong>.",
+    "start_button": "ÎNCEPE TESTUL GRATUIT",
+    "next": "Următorul",
+    "back": "Înapoi",
+    "finish": "Finalizează",
+    "question_no": "Întrebarea nr.",
+    "result": {
+      "passed": "Felicitări! Ați trecut testul!",
+      "failed": "Din păcate, nu ați trecut testul.",
+      "summary": "Ați răspuns corect la <strong>{{correct}}</strong> din 10 întrebări",
+      "button": "ÎNREGISTREAZĂ-TE PENTRU TESTELE REALE"
+    }
+  },
+  "articles": {
+    "title": "Articole",
+    "read_more": "Citește mai mult",
+    "back": "ÎNAPOI"
+  },
+  "testimonials": {
+    "title": "Recenzii",
+    "section_title": "Suntem aici pentru a face învățarea ușoară și accesibilă!",
+    "paragraph_1": "Dacă materialele noastre te-au ajutat să-ți îmbunătățești cunoștințele despre regulile de circulație din Irlanda și să te pregătești pentru examenul teoretic, îți vom fi recunoscători pentru feedback-ul tău. Opinia ta contează, fiecare recenzie ne ajută să ne îmbunătățim și motivează alți studenți să învețe!",
+    "paragraph_2": "Testele online DriverTT au pus întotdeauna o atenție deosebită calității resurselor educaționale. Ne mândrim că oferim studenților noștri materiale doar de înaltă calitate și actualizate. Prioritatea noastră a fost și rămâne să oferim rezultate reale utilizatorilor noștri. Dar nu trebuie să ne credeți pe cuvânt — citiți ce spun unii dintre studenții noștri despre noi online!",
+    "paragraph_3": "Puteți găsi mai multe recenzii pe pagina noastră de <a href='https://www.facebook.com/drivertt.ie'>Facebook</a> și <a href='https://www.instagram.com/drivertt.ie'>Instagram</a>.",
+    "write_testimonial": "Scrie un testimonial"
+  },
+  "contact_us": {
+    "title": "Contactează-ne",
+    "paragraph_1": "Vă mulțumim pentru interesul acordat testelor noastre online! Ne bucurăm că ați găsit timp să vizitați site-ul și așteptăm cu nerăbdare să participați la teste. Suntem siguri că veți fi plăcut surprins de simplitatea și accesibilitatea serviciului nostru.",
+    "paragraph_2": "Vă rugăm să folosiți formularul de contact de mai jos pentru a ne trimite un mesaj și a face primul pas spre a deveni un șofer excelent!",
+    "contact_us": "Contactează-ne",
+    "name": "Nume",
+    "email": "Email",
+    "message": "Mesaj"
+  },
+  "tariff": {
+    "current_plan": "Planul actual",
+    "name": "Nume",
+    "plan_name": "Standard",
+    "days_left": "Zile rămase",
+    "renew_plan": "Reînnoiește planul"
+  },
+  "payment_history": {
+    "title": "Istoricul plăților",
+    "no_data": "Fără date",
+    "number": "Nr.",
+    "date": "Dată",
+    "tariff": "Plan",
+    "price": "Preț",
+    "days": "Zile",
+    "status": "Stare",
+    "paid": "Plătit",
+    "canceled": "Anulat",
+    "paginator_aria": "Selectați o pagină"
+  },
+  "scores": {
+    "title": "Istoricul succeselor",
+    "number": "Nr.",
+    "category": "Categorie",
+    "date": "Dată",
+    "time_spent": "Timp alocat testului",
+    "at": "la",
+    "result": "Rezultat",
+    "actions": "Acțiuni",
+    "passed": "Promovat",
+    "failed": "Respins",
+    "paginator_aria": "Selectați o pagină",
+    "questions": "Întrebări"
+  },
+  "question": {
+    "number": "Întrebarea nr. {{number}}",
+    "explanation": "Explicație:"
+  },
+  "road_signs": {
+    "title": "Semne de circulație"
+  },
+  "lessons": {
+    "title": "Manual",
+    "explanation": "Explicație"
+  },
+  "how_to_register": {
+    "official_site": "Site-ul oficial (RSA)",
+    "theoretical_test": "Test Teoretic",
+    "test_category": "Categoria Testului",
+    "additional_information": "Informații Suplimentare",
+    "privacy_policy": "Notificare privind Confidențialitatea",
+    "required_docs": "Documente Necesare",
+    "important_note": "Notă Importantă",
+    "pre_approved": "Condiții Preaprobate pentru Testare",
+    "test_choice": "Alegerea Testului",
+    "exam_language": "Limba Examenului",
+    "test_center": "Centrul de testare",
+    "date_time": "Data și Ora",
+    "personal_data": "Date Personale",
+    "review": "Revizuire Înregistrare",
+    "payment": "Plată",
+    "previous": "Înapoi",
+    "next": "Înainte",
+    "chapters": "Capitole"
+  },
+  "profile": {
+    "title": "Profil",
+    "name": "Nume",
+    "email": "Email",
+    "password": "Parolă",
+    "confirm_pass": "Confirmare parolă",
+    "save": "Salvează",
+    "description": "Conducerea unei mașini este o activitate serioasă care necesită responsabilitate, cunoștințe și atenție din partea șoferilor. Instructorii noștri sunt foarte bine pregătiți și fiecare dintre ei știe cum să ajute chiar și cei mai emoționați șoferi să facă față stresului și disconfortului. Cel mai important lucru este că ne mândrim cu șoferii de calitate pe care școala noastră îi formează. Ne dorim să asigurăm siguranța pe străzile din Washington, D.C., precum și siguranța șoferilor adolescenți și adulți."
+  },
+  "steps_guide": {
+    "title": "Pașii pentru a deveni șofer de autoturism / camionetă (categoria B)",
+    "step_1": {
+      "title": "1. Pregătirea pentru testul teoretic",
+      "text_1": "<strong class='color-strong'>Manualul:</strong> Începeți prin a studia cu atenție cartea ",
+      "text_2": "Aceasta este sursa oficială de informații despre regulile de circulație în Irlanda.",
+      "text_3": "Acordați atenție specială secțiunilor despre semnele rutiere, marcaje, limite de viteză, reguli de prioritate și comportamentul în diferite situații de trafic.",
+      "link_text_1": "Rules of the Road",
+      "text_4": "<strong class='color-strong'>Semne rutiere:</strong> Studiați cu atenție toate ",
+      "link_text_2": "semnele rutiere",
+      "text_5": "Cunoașterea semnelor este esențială pentru a avea încredere la volan și pentru a promova testul teoretic.",
+      "text_6": "<strong class='color-strong'>Rezolvați teste practice:</strong> Faceți frecvent ",
+      "link_text_3": "teste practice",
+      "text_7": "Acest lucru vă va ajuta să vă familiarizați cu structura examenului și tipurile de întrebări.",
+      "text_8": "După fiecare test, analizați greșelile și reveniți la temele care v-au creat dificultăți."
+    },
+    "step_2": {
+      "title": "2. Susținerea testului teoretic",
+      "text_1": "<strong class='color-strong'>Programarea examenului:</strong> Înregistrați-vă pe site-ul oficial ",
+      "link_text_1": "www.theorytest.ie",
+      "text_2": "alegeți cel mai apropiat centru de testare și ora convenabilă. Un ",
+      "link_text_2": "ghid detaliat pentru înregistrare",
+      "text_3": "este disponibil pe site-ul nostru.",
+      "text_4": "<strong class='color-strong'>Examenul:</strong> Testul teoretic constă în 40 de întrebări, din care trebuie să răspundeți corect la 35. Aveți 45 de minute pentru a-l finaliza.",
+      "text_5": "După promovare, veți primi un Certificat de Competență."
+    },
+    "step_3": {
+      "title": "3. Aplică pentru permis provizoriu (Learner Permit)",
+      "text_1": "Acum puteți aplica online pentru permisul de învățare, ceea ce simplifică mult procesul. Nu mai este nevoie de formulare fizice sau programări NDLS. Aplicați online dând clic ",
+      "link_text_1": "aici",
+      "text_2": "Aveți nevoie de: ",
+      "li_1": "Cardul de servicii publice și contul verificat online (MyGovID).",
+      "li_2": "Promovarea testului teoretic pentru categoria solicitată în ultimii 2 ani.",
+      "li_3": "Formular oftalmologic completat, dacă este necesar.",
+      "li_4": "Formular medical completat, dacă este necesar.",
+      "li_5": "Dovada adresei actuale, dacă diferă de cea din sistemul PSC.",
+      "li_6": "Dovada rezidenței în Irlanda, dacă nu sunteți cetățean UE/SEE.",
+      "li_7": "Certificatul de Competență Profesională (CPC), dacă este cazul.",
+      "text_3": "Taxa este de 45,00 EUR. Plata se poate face cu cardul. Dacă aveți peste 70 de ani, sunteți scutit de plată."
+    },
+    "step_4": {
+      "title": "4. Instruire practică",
+      "text_1": "<strong class='color-strong'>Căutați un instructor:</strong> Instructorul trebuie să fie autorizat de RSA și să dețină certificarea ADI.",
+      "text_2": "<strong class='color-strong'>Lecții obligatorii:</strong> Sunt necesare 12 ore de instruire (EDT - Essential Driver Training), care acoperă toate aspectele esențiale ale condusului.",
+      "text_3": "<strong class='color-strong'>Exersați cu un însoțitor:</strong> Puteți conduce cu un șofer experimentat (minim 2 ani cu permis complet), având afișat semnul \"L\" pe mașină."
+    },
+    "step_5": {
+      "title": "5. Pregătirea pentru testul practic",
+      "text_1": "<strong class='color-strong'>Finalizați EDT:</strong> După cele 12 lecții, instructorul va completa carnetul EDT care va trebui prezentat la examen.",
+      "text_2": "<strong class='color-strong'>Practică în trafic:</strong> Conduceți frecvent în condiții reale pentru a vă îmbunătăți abilitățile."
+    },
+    "step_6": {
+      "title": "6. Susținerea examenului practic",
+      "text_1": "<strong class='color-strong'>Programare:</strong> Înscrieți-vă pe site-ul RSA.",
+      "text_1_extend": "Alegeți centrul de testare și ora potrivită.",
+      "text_2": "Sosirea la centrul de testare",
+      "li_1": "Sosiți cu 10-15 minute înainte.",
+      "li_2": "Aveți la dvs. Learner Permit și dovada rezervării.",
+      "text_3": "Verificarea documentelor",
+      "li_3": "Examinatorul va verifica actele și mașina (asigurare, stare tehnică etc.).",
+      "text_4": "Inspecția tehnică a mașinii",
+      "li_4": "Poate include testarea frânelor, luminilor, semnalizărilor etc.",
+      "text_5": "Începerea testului",
+      "li_5": "Veți conduce în prezența examinatorului.",
+      "li_6": "Veți executa: porniri, frânări, schimbări de bandă, întoarceri, parcări.",
+      "text_6": "Evaluarea abilităților",
+      "li_7": "Veți fi evaluat pe respectarea regulilor, semnalizări, oglinzi, control general.",
+      "li_8": "Se va analiza și comportamentul în trafic intens și siguranța generală.",
+      "text_7": "Întoarcerea la centrul de testare",
+      "li_9": "După traseu, veți reveni la centru.",
+      "text_8": "Rezultatul examenului",
+      "li_10": "Dacă treceți, primiți un certificat temporar până la emiterea permisului.",
+      "li_11": "Dacă picați, vi se explică greșelile și ce trebuie îmbunătățit."
+    },
+    "step_7": {
+      "title": "7. Obținerea permisului complet de conducere",
+      "text_1": " După ce susțineți cu succes examenul de conducere, puteți solicita permisul de conducere complet. Aceasta se poate face online, prin intermediul ",
+      "link_text_1": "site-ului NDLS",
+      "text_1_extend": "sau personal, la orice centru al Serviciului Național pentru Permise de Conducere (NDLS).",
+      "text_2": "Documente necesare",
+      "li_1": "Permis Previzoriu (Learner Permit).",
+      "li_2": "Dovada adresei (dacă este diferită).",
+      "li_3": "Fotografie color recentă (pentru aplicațiile fizice).",
+      "li_4": "Raport medical (dacă este necesar).",
+      "li_5": "Formular completat (dacă aplicați fizic).",
+      "text_3": "Plata",
+      "li_6": "Se plătește taxa de emitere, în funcție de perioada dorită (de obicei 10 ani).",
+      "text_4": "Primirea permisului",
+      "li_7": "După procesare, permisul va fi trimis prin poștă.",
+      "text_5": "Înlocuirea certificatului temporar",
+      "li_8": "Acesta trebuie predat când primiți permisul complet.",
+      "text_6": "Valabilitate",
+      "li_9": "Permisul complet este valabil în general 10 ani și trebuie reînnoit ulterior."
+    }
   }
 }
