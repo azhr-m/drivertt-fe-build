@@ -23,6 +23,16 @@
     "success": "Succes",
     "error": "Eroare"
   },
+  "pagination": {
+    "first": "Prima",
+    "prev": "Anterior",
+    "next": "Următor",
+    "last": "Ultima",
+    "first_page": "Prima pagină",
+    "previous_page": "Pagina anterioară",
+    "next_page": "Pagina următoare",
+    "last_page": "Ultima pagină"
+  },
   "header": {
     "hello": "Salut",
     "location_title": "Locație",

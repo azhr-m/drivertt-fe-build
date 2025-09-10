@@ -23,6 +23,16 @@
     "success": "Success",
     "error": "Error"
   },
+  "pagination": {
+    "first": "First",
+    "prev": "Prev",
+    "next": "Next",
+    "last": "Last",
+    "first_page": "First page",
+    "previous_page": "Previous page",
+    "next_page": "Next page",
+    "last_page": "Last page"
+  },
   "header": {
     "hello": "Hello",
     "location_title": "Location",
@@ -299,7 +309,7 @@
     "title": "Road signs"
   },
   "lessons": {
-    "title": "Lessons",
+    "title": "Book",
     "explanation": "Explanation"
   },
   "how_to_register": {
