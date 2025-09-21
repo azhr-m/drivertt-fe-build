@@ -33,6 +33,11 @@
     "next_page": "Следующая страница",
     "last_page": "Последняя страница"
   },
+  "http_errors": {
+    "unauthorized": "Вы не авторизованы",
+    "unprocessable_entity": "Предоставлены неверные данные",
+    "generic_error": "Произошла ошибка. Пожалуйста, попробуйте еще раз."
+  },
   "header": {
     "hello": "Здравствуйте",
     "location_title": "Местоположение",
@@ -162,9 +167,22 @@
       "invalid_token": "Недействительный или истекший токен."
     },
     "reset_password": {
+      "title": "Изменить пароль",
+      "email_label": "Электронная почта",
+      "password_label": "Пароль",
+      "confirm_password_label": "Подтвердите пароль",
+      "email_validation_invalid": "Введите верный электронный адрес",
+      "email_validation_required": "Введите <strong>электронный адрес</strong>",
+      "password_validation_minlength": "Пароль должен содержать минимум 5 символов",
+      "password_validation_required": "Введите <strong>пароль</strong>",
+      "reset_button": "ОБНОВЛЯТЬ",
       "success_message": "Пароль успешно сброшен.",
       "email_token_not_found": "Электронная почта или токен не найдены.",
       "invalid_token": "Недействительный или истекший токен."
+    },
+    "messages": {
+      "login_success": "Вы успешно авторизованы",
+      "password_reset_sent": "Вскоре вы должны получить электронное письмо с просьбой сбросить пароль."
     }
   },
   "footer": {

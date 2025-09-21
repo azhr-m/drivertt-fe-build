@@ -33,6 +33,11 @@
     "next_page": "Pagina următoare",
     "last_page": "Ultima pagină"
   },
+  "http_errors": {
+    "unauthorized": "Nu sunteți autorizat",
+    "unprocessable_entity": "Date invalide furnizate",
+    "generic_error": "A apărut o eroare. Vă rugăm să încercați din nou."
+  },
   "header": {
     "hello": "Salut",
     "location_title": "Locație",
@@ -162,9 +167,22 @@
       "invalid_token": "Token invalid sau expirat."
     },
     "reset_password": {
+      "title": "Schimbă parola",
+      "email_label": "Adresa de email",
+      "password_label": "Parola",
+      "confirm_password_label": "Confirmă parola",
+      "email_validation_invalid": "Introduceți o adresă de email validă",
+      "email_validation_required": "Introduceți <strong>adresa de email</strong>",
+      "password_validation_minlength": "Parola trebuie să conțină minimum 5 caractere",
+      "password_validation_required": "Introduceți <strong>parola</strong>",
+      "reset_button": "ACTUALIZEAZĂ",
       "success_message": "Parola a fost resetată cu succes.",
       "email_token_not_found": "Email-ul sau token-ul nu au fost găsite.",
       "invalid_token": "Token invalid sau expirat."
+    },
+    "messages": {
+      "login_success": "V-ați autentificat cu succes",
+      "password_reset_sent": "Ar trebui să primiți în curând un e-mail cu instrucțiuni pentru a vă reseta parola."
     }
   },
   "footer": {
